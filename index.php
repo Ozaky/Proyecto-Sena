@@ -1,3 +1,4 @@
+//hola//
 <?php
 session_start();
 require_once "libs/rutas.php";
